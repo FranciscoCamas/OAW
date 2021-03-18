@@ -1,6 +1,6 @@
 # OAW
 Repositorio para el proyecto final de la asignatura optativa </br>
-Optimizasión de Aplicaciones Web. </br>
+Optimización de Aplicaciones Web. </br>
 Profesor: Dr. Víctor Hugo Menéndez Domínguez</br>
 
  Equipo:
